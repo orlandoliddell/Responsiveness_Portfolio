@@ -1,14 +1,12 @@
 # Responsiveness_Portfolio
 
 3 Documents
-    -Home (About Me)
+-Home (About Me)
         ~Quick summary about myself and family.
         ~Contains links to my gmail, github, and facebook.
-
-    -Portfolio
+-Portfolio
         ~5 images of my family and I.
-
-    -Contact Me
+-Contact Me
         ~A way to submit your first and last name, email, and a message to contact me.
 
 
